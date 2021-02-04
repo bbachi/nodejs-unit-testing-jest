@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-unit-testing-jest",
+  "version": "1.0.0",
+  "description": "Example project on how to do unit testing in NodeJS Apps with JEST Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbachi/nodejs-unit-testing-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbachi/nodejs-unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/bbachi/nodejs-unit-testing-jest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "request-promise": "^4.2.6"
+  }
+}
